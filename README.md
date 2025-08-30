@@ -291,12 +291,12 @@
         <nav class="container">
             <div class="logo">Lumen</div>
             <ul class="nav-links">
-                <li><a href="#features">Features</a></li>
-                <li><a href="#impact">Impact</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="features">Features</a></li>
+                <li><a href="impact">Impact</a></li>
+                <li><a href="about">About</a></li>
+                <li><a href="contact">Contact</a></li>
             </ul>
-            <a href="#demo" class="cta-button">Request Demo</a>
+            <a href="demo" class="cta-button">Request Demo</a>
         </nav>
     </header>
 
